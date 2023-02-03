@@ -1,1 +1,2 @@
 # cv
+He was born in 1997. He is currently pursuing the Ph.D. degree in National Engineering Laboratory of Robot Visual Perception and Control Technology, Hunan University, and received the M.S. and B.S. degree in  Changsha University of Science and Technology and Xi'an University of Posts \& Telecommunications in 2021 and 2018, respectively. His current research interests include image processing, machine learning and object detection.
